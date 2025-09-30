@@ -31,3 +31,15 @@ Install with:
 
 ```bash
 pip install sympy
+```
+
+
+## ▶️ How to Run
+
+To run the main Python program:
+
+1. Open a terminal in this repository folder.
+2. Execute:
+
+```bash
+python3 main.py
